@@ -6,7 +6,6 @@ body{
 .container{
     width: 70%;
     border: solid 2px black;
-    padding: 1rem;
     font-size: 20px;
     margin: auto;
 }
@@ -14,4 +13,19 @@ body{
     border-bottom:1px solid black;
     width: 50%;
     margin: auto;
+}
+.cabecera{
+    background-color: darkorange;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+    box-shadow:  0px 9px 24px -11px rgba(179,179,179,1);
+}
+.cabecera h1{
+    margin: 0;
+    border: none;
+    text-align: left;
 }
