@@ -2,7 +2,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: darkorange;
     text-align: center;
-    background-color: darkslategray;
+    background-color: darkgrey;
 }
 .container{
     width: 70%;
@@ -18,7 +18,7 @@ body{
     margin: auto;
 }
 .cabecera{
-    background-color: darkorange;
+    background-color: darkcyan;
     color: white;
     display: flex;
     justify-content: space-between;
