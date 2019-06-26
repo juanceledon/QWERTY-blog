@@ -35,3 +35,13 @@ body{
 .container p{
     color: darkgray;
 }
+.footer{
+    margin-top: 605px;
+    background-color: darkslategray;
+    padding: .5em;
+    border: 4px solid darkorange;
+    border-top: none;
+}
+.footer p{
+color: white;
+}
